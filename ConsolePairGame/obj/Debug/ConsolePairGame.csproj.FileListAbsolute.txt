@@ -1,0 +1,7 @@
+C:\Users\ramch\source\repos\ConsolePairGame\ConsolePairGame\bin\Debug\ConsolePairGame.exe.config
+C:\Users\ramch\source\repos\ConsolePairGame\ConsolePairGame\bin\Debug\ConsolePairGame.exe
+C:\Users\ramch\source\repos\ConsolePairGame\ConsolePairGame\bin\Debug\ConsolePairGame.pdb
+C:\Users\ramch\source\repos\ConsolePairGame\ConsolePairGame\obj\Debug\ConsolePairGame.csprojAssemblyReference.cache
+C:\Users\ramch\source\repos\ConsolePairGame\ConsolePairGame\obj\Debug\ConsolePairGame.csproj.CoreCompileInputs.cache
+C:\Users\ramch\source\repos\ConsolePairGame\ConsolePairGame\obj\Debug\ConsolePairGame.exe
+C:\Users\ramch\source\repos\ConsolePairGame\ConsolePairGame\obj\Debug\ConsolePairGame.pdb
